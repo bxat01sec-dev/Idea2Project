@@ -1,4 +1,4 @@
-# 🚀 Idea2Project Platform  
+# Idea2Project Platform  
 **v0.1.0 – Initial Demo**
 
 🌐 **Live Demo:** https://idea2project.onrender.com/
